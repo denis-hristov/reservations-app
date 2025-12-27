@@ -1,15 +1,15 @@
 ## Reservations App
 
-### Server
+###Server
 ```bash
 cd server
 cp .env.example .env
 npm i
 npm start
-
-
-### Client
+```
+###Client
 ```bash
 cd client
 npm i
 npm run dev
+```
